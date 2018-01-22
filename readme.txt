@@ -4,3 +4,4 @@ Git second change.
 Git third change.
 Git fourth change.
 Git fifth change.
+Git seventh change.
